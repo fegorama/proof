@@ -10,6 +10,10 @@
       "surnames": "González Ruano",
       "title": "Release Manager & Lead Architect",
       "description": "Persona con más de 25 años de experiencia en tecnología. Amante del aprendizaje y profesor colaborador de la UOC en Ingeniería de Requisitos. Actualmente como Release Manager y Lead Architect en tecnologías de automatización, ciberseguridad y gestión del dato.\n",
+      "avatar": {
+        "alt": "fegorgafas10.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/14/ec27f9b7-9508-4a9b-8df3-4cce578acb53_fegorgafas10.jpg"
+      },
       "location": {
         "notes": "Autocompleted using Google Maps API"
       }
