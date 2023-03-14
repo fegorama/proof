@@ -76,6 +76,12 @@
     ]
   },
   "careerPreferences": {
+    "preferences": {
+      "preferredRoles": [
+        "Security Engineer",
+        "Software Architect"
+      ]
+    },
     "status": "openToOffers"
   }
 }
