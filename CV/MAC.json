@@ -1,0 +1,81 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Fernando",
+      "surnames": "González Ruano",
+      "title": "Release Manager & Lead Architect",
+      "description": "Persona con más de 25 años de experiencia en tecnología. Amante del aprendizaje y profesor colaborador de la UOC en Ingeniería de Requisitos. Actualmente como Release Manager y Lead Architect en tecnologías de automatización, ciberseguridad y gestión del dato.\n",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Ricoh IT Services"
+        },
+        "roles": [
+          {
+            "name": "Release Manager & Lead Architect",
+            "startDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Liderando proyectos de gestión del dato y automatización.\n"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Alfresco",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "status": "openToOffers"
+  }
+}
