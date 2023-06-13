@@ -76,6 +76,10 @@
         {
           "URL": "https://www.linkedin.com/in/fegor/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/fegorama",
+          "type": "other"
         }
       ],
       "contactMails": [
