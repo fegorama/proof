@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,11 +11,8 @@
       "title": "Release Manager & Lead Architect",
       "description": "Persona con más de 25 años de experiencia en tecnología. Amante del aprendizaje y profesor colaborador de la UOC en Ingeniería de Requisitos. Actualmente como Release Manager y Lead Architect en tecnologías de automatización, ciberseguridad y gestión del dato.\n",
       "avatar": {
-        "alt": "fegorgafas10.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/14/ec27f9b7-9508-4a9b-8df3-4cce578acb53_fegorgafas10.jpg"
-      },
-      "location": {
-        "notes": "Autocompleted using Google Maps API"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/14/ec27f9b7-9508-4a9b-8df3-4cce578acb53_fegorgafas10.jpg",
+        "alt": "fegorgafas10.jpg"
       }
     }
   },
@@ -40,28 +37,16 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "English",
-        "level": "Native or bilingual proficiency"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
+          "name": "Alfresco",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "C++",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
           "type": "technology"
         }
       },
@@ -73,13 +58,30 @@
       },
       {
         "skill": {
-          "name": "Alfresco",
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
           "type": "technology"
         }
       }
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/fegor/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "fegor@fegor.com"
+      ]
+    },
     "preferences": {
       "preferredRoles": [
         "Security Engineer",
